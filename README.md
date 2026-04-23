@@ -1,3 +1,6 @@
+keep the pth and related files in datsets where video thr that folder 
+
+
 # Teacher Analyzer — Combined Analysis System
 ## What it does
 Picks **one random video** from your `teacher/` folder and runs **two analyses simultaneously**:
